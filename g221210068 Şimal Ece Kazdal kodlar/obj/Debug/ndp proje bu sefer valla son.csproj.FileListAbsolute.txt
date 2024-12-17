@@ -1,0 +1,11 @@
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\bin\Debug\ndp proje bu sefer valla son.exe.config
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\bin\Debug\ndp proje bu sefer valla son.exe
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\bin\Debug\ndp proje bu sefer valla son.pdb
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\obj\Debug\ndp proje bu sefer valla son.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\obj\Debug\ndp proje bu sefer valla son.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\obj\Debug\ndp_proje_bu_sefer_valla_son.Form1.resources
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\obj\Debug\ndp_proje_bu_sefer_valla_son.Properties.Resources.resources
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\obj\Debug\ndp proje bu sefer valla son.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\obj\Debug\ndp proje bu sefer valla son.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\obj\Debug\ndp proje bu sefer valla son.exe
+C:\Users\casper\source\repos\ndp proje bu sefer valla son\obj\Debug\ndp proje bu sefer valla son.pdb
