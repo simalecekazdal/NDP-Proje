@@ -1,4 +1,4 @@
-# Collision Detection System (C# WinForms)
+# Cisimlerin Çarpışma Kontrolü (C# WinForms)
 
 Bu proje, 2D ve 3D uzayda serbest halde duran cisimlerin çarpışma durumlarını kontrol eden bir **Windows Forms** uygulamasıdır.  
 Çarpışma denetimleri, **C#** dilinde nesne tabanlı programlama (OOP) yaklaşımı ile sınıflar ve metotlar kullanılarak geliştirilmiştir.
